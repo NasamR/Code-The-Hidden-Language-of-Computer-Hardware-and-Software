@@ -29,3 +29,6 @@
 26) The Operating System
 27) Coding
 28) The World Brain
+
+## 1) Best Friends
+![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/4c6ce2ed-cee1-41ac-8722-fdf7f10ee2f4)
