@@ -40,5 +40,3 @@ Morse code also includes codes for numbers by using a series of five dots and da
 
 Most punctuation marks use five, six, or seven dots and dashes:
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/7d83120c-5a7e-4922-b3da-85d35300cb8f)
-
-
