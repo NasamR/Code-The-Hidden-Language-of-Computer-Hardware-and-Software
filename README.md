@@ -36,7 +36,9 @@ In Morse code, every letter of the alphabet corresponds to a short series of dot
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/4c6ce2ed-cee1-41ac-8722-fdf7f10ee2f4)
 
 Morse code also includes codes for numbers by using a series of five dots and dashes:
+
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/c154922a-a936-4706-89fe-37f4450b9cc8)
 
 Most punctuation marks use five, six, or seven dots and dashes:
+
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/7d83120c-5a7e-4922-b3da-85d35300cb8f)
