@@ -58,7 +58,7 @@
 [28. The World Brain]()
 
 
-## 1 Best Friends
+# 1. Best Friends
 
 In Morse code, every letter of the alphabet corresponds to a short series of dots and dashes, as you can see in the following table:
 
