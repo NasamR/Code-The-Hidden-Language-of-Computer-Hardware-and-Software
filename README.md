@@ -1,7 +1,7 @@
 # Code-The-Hidden-Language-of-Computer-Hardware-and-Software
 Краткий, вольный пересказ книги.
 
-[1) Best Friends](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md?plain=1#L33)
+[1) Best Friends](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md?plain=1#L61)
 
 [2) Codes and Combinations]()
 
