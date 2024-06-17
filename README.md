@@ -1,5 +1,5 @@
 # Code-The-Hidden-Language-of-Computer-Hardware-and-Software
-Краткий и вольный пересказ книги для удобства пользования и освежения в памяти.
+Краткий, вольный пересказ книги.
 
 1) Best Friends
 2) Codes and Combinations
@@ -33,6 +33,7 @@
 ## 1) Best Friends
 
 In Morse code, every letter of the alphabet corresponds to a short series of dots and dashes, as you can see in the following table:
+
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/4c6ce2ed-cee1-41ac-8722-fdf7f10ee2f4)
 
 Morse code also includes codes for numbers by using a series of five dots and dashes:
