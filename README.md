@@ -1,7 +1,7 @@
 # Code-The-Hidden-Language-of-Computer-Hardware-and-Software
 Краткий, вольный пересказ книги.
 
-[1 Best Friends](## 1-best-friends)
+[1 Best Friends](##1-best-friends)
 
 [2 Codes and Combinations]()
 
