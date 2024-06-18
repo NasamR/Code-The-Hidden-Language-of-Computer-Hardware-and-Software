@@ -4,9 +4,9 @@ Free retelling for my own use.
 
 [1. Best Friends](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#1-best-friends)
 
-[2. Codes and Combinations]()
+[2. Codes and Combinations](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#2-codes-and-combinations)
 
-[3. Braille and Binary Codes]()
+[3. Braille and Binary Codes](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#3-braille-and-binary-codes)
 
 [4. Anatomy of a Flashlight]()
 
