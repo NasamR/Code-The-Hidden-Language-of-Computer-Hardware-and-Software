@@ -1,5 +1,7 @@
 # Code-The-Hidden-Language-of-Computer-Hardware-and-Software
 
+Free retelling for my own use.
+
 [1. Best Friends](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#1-best-friends)
 
 [2. Codes and Combinations]()
@@ -70,3 +72,12 @@ Morse code also includes codes for numbers by using a series of five dots and da
 Most punctuation marks use five, six, or seven dots and dashes:
 
 ![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/7d83120c-5a7e-4922-b3da-85d35300cb8f)
+
+# 2. Codes and Combinations
+
+To make the process of decoding Morse code even easier, you might want to draw something like this big treelike diagram shown here:
+
+![image](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/assets/60060399/45936267-2d46-4fc5-8907-4728900f1ba0)
+
+# 3. Braille and Binary Codes
+
