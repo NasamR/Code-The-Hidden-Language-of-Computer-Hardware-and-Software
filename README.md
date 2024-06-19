@@ -81,3 +81,15 @@ To make the process of decoding Morse code even easier, you might want to draw s
 
 # 3. Braille and Binary Codes
 
+pass
+
+# 4. Anatomy of a Flashlight
+
+pass
+
+# 5. Communicating Around Corners
+
+pass
+
+# 6. Logic with Switches
+
