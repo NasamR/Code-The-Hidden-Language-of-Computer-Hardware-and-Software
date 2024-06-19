@@ -8,11 +8,11 @@ Free retelling for my own use.
 
 [3. Braille and Binary Codes](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#3-braille-and-binary-codes)
 
-[4. Anatomy of a Flashlight]()
+[4. Anatomy of a Flashlight](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#4-anatomy-of-a-flashlight)
 
-[5. Communicating Around Corners]()
+[5. Communicating Around Corners](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#5-communicating-around-corners)
 
-[6. Logic with Switches]()
+[6. Logic with Switches](https://github.com/NasamR/Code-The-Hidden-Language-of-Computer-Hardware-and-Software/blob/main/README.md#6-logic-with-switches)
 
 [7. Telegraphs and Relays]()
 
